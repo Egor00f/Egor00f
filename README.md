@@ -1,6 +1,8 @@
+
+
 - 👋 Hi, I’m @Egor00f
 - 👀 I’m interested in ALL
-- 🌱 I’m currently learning C/C++, ASM, Lua
+- 🌱 I’m currently learning C/C++, ASM, Luau(Roblox)
 
 
 <!---
